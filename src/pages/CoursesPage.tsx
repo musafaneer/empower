@@ -43,7 +43,7 @@ export default function CoursesPage() {
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
       <div className="text-center">
         <h1 className="text-3xl font-bold tracking-tight text-ink-900 sm:text-4xl">Course Catalog</h1>
-        <p className="mt-3 text-lg text-ink-500">Explore expert-led courses designed to empower your mind and your future.</p>
+        <p className="mt-3 text-lg text-ink-500">Master mental math with patented abacus methods, the ZMC, and concentration training.</p>
       </div>
 
       {/* Search + Filters */}
